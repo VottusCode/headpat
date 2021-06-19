@@ -1,0 +1,8 @@
+{
+  "name": "headpat",
+  "description": "Eventually might repurpose",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "license": "MIT"
+}
